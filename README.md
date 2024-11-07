@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mikhail-zvinchuk
-- 👀 I’m interested in Python, C#, TypeScript
 - I'm currently looking for projects. 
 
 <!---
